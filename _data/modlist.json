@@ -1,1 +1,900 @@
-[]
+[[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.1.8"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Toolkit Bridge - VFE Settlers"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Research Tree",
+    "steamId": "1266570759",
+    "version": "3.17.533"
+  },
+  {
+    "author": "Mehni, XeoNovaDan, Miyuri (ZXfkSIE)",
+    "name": "4M Mehni's Misc Modifications [1.2]",
+    "steamId": "2228765246",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "LingLuo",
+    "name": "Give up your building"
+  },
+  {
+    "author": "Herigony",
+    "name": "Map Edit Tools"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.1.2.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "High quality textures",
+    "steamId": "1676969930",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nandonalt, Tejko, Alias",
+    "name": "Snowy Trees"
+  },
+  {
+    "author": "Mireia Balaguer",
+    "name": "Smooth Bricks"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "leion247",
+    "name": "Misc. Craftable Robots"
+  },
+  {
+    "author": "Shadow",
+    "name": "Misc. Craftable Robots Addon"
+  },
+  {
+    "author": "gloriousyuri",
+    "name": "Misc. Craftable Robots Retexture"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "void",
+    "name": "Deep Stack"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.7"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Change Dresser",
+    "steamId": "1385697110",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Infinite Storage",
+    "steamId": "1233893175",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sixdd",
+    "name": "Little Storage 2"
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.1.5.0"
+  },
+  {
+    "author": "mrcool92",
+    "name": "Animals Gender On Caravan",
+    "steamId": "1613905041",
+    "version": "1.5"
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7751.22015"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Area Unlocker",
+    "steamId": "725153576",
+    "version": "3.14.109"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Build From Inventory",
+    "steamId": "1691419062",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.32"
+  },
+  {
+    "author": "Phomor",
+    "name": "Crafting Quality Rebalanced",
+    "steamId": "1542004942",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Ron Popeil",
+    "name": "Don't Steal My Walls!",
+    "steamId": "2058688941",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "tikubonn",
+    "name": "DontBlockDoor[1.0-1.2]"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Ivelischt",
+    "name": "Hay doesn't need Cooling!"
+  },
+  {
+    "author": "Billy Martin (original) & Kiame Vivacity",
+    "name": "Improved Load Transport Pods"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Just Ignore Me Passing"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership"
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Meals On Wheels",
+    "steamId": "1323773476",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Neuter"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7528.166"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] No Default Shelf Storage"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Path Avoid",
+    "steamId": "1180719857",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "wtfomgjohnny",
+    "name": "Perishable"
+  },
+  {
+    "author": "fyarn",
+    "name": "PriorityClean",
+    "steamId": "1294779672",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LoggerC4, Taranchuk",
+    "name": "Proxy Heat"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Realistic Rooms"
+  },
+  {
+    "author": "DnaJur",
+    "name": "ReLearn - 0.3.3"
+  },
+  {
+    "author": "balistafreak",
+    "name": "Stop, Drop, And Roll! [BAL]",
+    "steamId": "2362707956",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.7.3"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Simply Soil"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "PlayIgel, Alastair, Kayedon, SalmonToastie",
+    "name": "VFME - Caravan Packs!"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Smart Medicine",
+    "steamId": "1309994319",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PinoChemicali",
+    "name": "Skilled Stonecutting"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Reverse Commands"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "Restricted Storage"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Set Owner for Prisoner Beds"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Loading In Progress"
+  },
+  {
+    "author": "Roolo",
+    "name": "RunAndGun"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "xuvvy",
+    "name": "Organ Harvest Post Mortem No Debuff"
+  },
+  {
+    "author": "sellophane",
+    "name": "[Remade+Updated] Stockpile Stack Limit"
+  },
+  {
+    "author": "OkraDonkey",
+    "name": "Silent Doors"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "SameSpot",
+    "steamId": "834903021",
+    "version": "2.1.0.0"
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Books Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs"
+  },
+  {
+    "author": "Mlie",
+    "name": "Food Alert (Continued)",
+    "steamId": "2017538067",
+    "version": "1.0.12.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Auto links"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "民火",
+    "name": "Selectable Sculpture Graphic"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] ReColor Stockpile & Growing Zones"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
+  },
+  {
+    "author": "民火",
+    "name": "Appearance clothes",
+    "steamId": "1537867047",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++"
+  },
+  {
+    "author": "EgotisticalElf",
+    "name": "MiscRobots WorkTab support",
+    "steamId": "2271338001",
+    "version": "2.1.22"
+  },
+  {
+    "author": "MattTheWaz",
+    "name": "WeaponsTab"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Enhancement Pack",
+    "steamId": "1339135272",
+    "version": "1.3.8.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map"
+  },
+  {
+    "author": "Bar0th",
+    "name": "No Debris 1.1/1.2"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gradient Hair",
+    "steamId": "1687053679",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "AnimalHarvestingSpot (Continued)"
+  },
+  {
+    "author": "dracoix",
+    "name": "ZARS Production Spots"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dub's Paint Shop",
+    "steamId": "1579516669",
+    "version": "1.1.562"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality"
+  },
+  {
+    "author": "Mlie",
+    "name": "Weapons Sorter",
+    "steamId": "2290406586",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons"
+  },
+  {
+    "author": "dninemfive",
+    "name": "Advanced Shield Belts"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Too Many Areas",
+    "steamId": "2316018203",
+    "version": "1.0"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Area Rugs 2.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Backup Power",
+    "steamId": "2084493662",
+    "version": "1.10.175"
+  },
+  {
+    "author": "dickmosi",
+    "name": "Better Flagstone"
+  },
+  {
+    "author": "AobaKuma OttersHoldHands iforgotmysocks",
+    "name": "Camping Tent",
+    "steamId": "2407128339",
+    "version": "1.8.0.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Locks"
+  },
+  {
+    "author": "Jecrell,lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.3.1.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Locks (DoorsExpanded)"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.5.1471"
+  },
+  {
+    "author": "BJR1984",
+    "name": "Dubs Skylights Addon"
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "Ben",
+    "name": "Fake Plants"
+  },
+  {
+    "author": "Zylle",
+    "name": "Gemstones"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Invisible Animal Beds"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.0.26.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Simply More Bridges - Medieval"
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors"
+  },
+  {
+    "author": "LinaFromSweden",
+    "name": "SimplyMoreFloors"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture"
+  },
+  {
+    "author": "Neceros",
+    "name": "Reinforced Walls",
+    "steamId": "1929389479",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Animal",
+    "steamId": "1629099614",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist AC Patch"
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zzz",
+    "name": "Wall Vitals Monitor"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "Arcjc007",
+    "name": "WallStuff",
+    "steamId": "1994340640",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Thick Roof Miner",
+    "steamId": "2160890454",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Erin, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Endangered",
+    "steamId": "2366589898",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest",
+    "steamId": "2260502331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Hair Expanded - Beards"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Alestria",
+    "name": "Vanilla Plants Expanded - Succulents"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Freya Fierce"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons"
+  },
+  {
+    "author": "Wyatt Mingji Lim aka WalkingProblem",
+    "name": "[1.2] Wild Animal Sex V5.0",
+    "steamId": "2292830796",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "2.6"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Cattle Gate"
+  }
+]]
