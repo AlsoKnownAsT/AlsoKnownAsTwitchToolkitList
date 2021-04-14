@@ -79,4 +79,4 @@ remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-midnight
