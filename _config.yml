@@ -74,4 +74,7 @@ store_redirects:
     - 'backpack'
     - 'surgery'
 
-theme: jekyll-theme-hacker
+# Build settings
+remote_theme: SirRandoo/Type-on-Strap
+plugins:
+  -
