@@ -73,6 +73,3 @@ store_redirects:
   item:
     - 'backpack'
     - 'surgery'
-
-# Build settings
-theme: jekyll-theme-midnight
