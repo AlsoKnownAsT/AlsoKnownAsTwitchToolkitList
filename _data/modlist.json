@@ -1,4 +1,4 @@
-[[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -55,15 +55,15 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.8"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
   },
   {
     "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
@@ -120,6 +120,22 @@
   {
     "author": "Mireia Balaguer",
     "name": "Smooth Bricks"
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal and Insect Meals"
+  },
+  {
+    "author": "Mlie",
+    "name": "Clothing Sorter",
+    "steamId": "2275655161",
+    "version": "1.0.17.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "Teok25",
@@ -897,4 +913,4 @@
     "author": "mr_chimick",
     "name": "Cattle Gate"
   }
-]]
+]
