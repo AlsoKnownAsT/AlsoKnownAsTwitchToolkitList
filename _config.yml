@@ -33,7 +33,7 @@ store:
     # Whether or not the item list will display an item's in-game category.
     category: true
     # Whether or not the item list will display an item's purchase weight.
-    weight: true
+    weight: false
     # Whether or not the item list will display an item's karma type override.
     karma: true
     # Whether or not the item list will display an item's quantity limit.
