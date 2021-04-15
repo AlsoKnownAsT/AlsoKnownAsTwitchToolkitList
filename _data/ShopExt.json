@@ -66,8 +66,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Neutral",
-        "karmaTypeForRemoving": "Neutral",
+        "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Doom",
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -124,7 +124,7 @@
           "animalhater"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -201,7 +201,7 @@
           "gourmand"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -226,7 +226,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -247,8 +247,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
-        "karmaTypeForRemoving": "Neutral",
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "+2.0 beauty"
         ]
@@ -314,7 +314,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
@@ -337,8 +337,8 @@
           "transhumanist"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Bad",
-        "karmaTypeForRemoving": "Neutral",
+        "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Good",
         "stats": []
       },
       "description": "[PAWN] believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
@@ -363,7 +363,7 @@
           "coward"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Good",
         "karmaTypeForRemoving": "Doom",
         "stats": [
           "-20% mental break threshold",
@@ -455,7 +455,7 @@
           "brawler"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+25% aiming time",
@@ -509,7 +509,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -530,7 +530,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -553,7 +553,7 @@
           "nimble"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -605,7 +605,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -630,7 +630,7 @@
           "bloodlust"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Doom",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -655,7 +655,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -689,7 +689,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 2000,
-      "removePrice": 8000,
+      "removePrice": 4000,
       "defName": "VTE_Desensitized",
       "degree": 0,
       "name": "desensitized",
@@ -699,7 +699,7 @@
           "squeamish"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
@@ -724,7 +724,7 @@
           "catperson"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -747,7 +747,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+4 melee"
@@ -777,7 +777,7 @@
           "prodigy"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Doom",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": [
           "-50% global learning factor",
@@ -811,7 +811,7 @@
           "dunce"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": [
           "x115% research speed"
@@ -838,8 +838,6 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
-        "karmaTypeForRemoving": "Doom",
         "stats": [
           "+4 animals",
           "+4 plants",
@@ -869,7 +867,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": [
           "+75% global learning factor"
@@ -894,7 +892,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": [
           "+0.20 move speed"
@@ -919,8 +917,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
-        "karmaTypeForRemoving": "Bad",
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
@@ -942,8 +940,8 @@
           "anxious"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
-        "karmaTypeForRemoving": "Bad",
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
@@ -965,7 +963,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Good",
         "karmaTypeForRemoving": "Doom",
         "stats": [
           "+4 cooking",
@@ -1046,7 +1044,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Good",
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
@@ -1070,7 +1068,7 @@
           "jealous"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -1094,7 +1092,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Good",
         "karmaTypeForRemoving": "Doom",
         "stats": [
           "+4 mining",
@@ -1125,7 +1123,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": [
           "+20% global work speed"
@@ -1172,7 +1170,7 @@
           "coldinclined"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+18.0F Maximum comfortable temperature"
@@ -1199,7 +1197,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -1220,7 +1218,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Good",
         "karmaTypeForRemoving": "Doom",
         "stats": [
           "+35% global work speed"
@@ -1276,7 +1274,7 @@
           "heavysleeper"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Doom",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": [
           "x50% global work speed",
@@ -1342,7 +1340,7 @@
         ],
         "customName": false,
         "karmaTypeForAdding": "Good",
-        "karmaTypeForRemoving": "Neutral",
+        "karmaTypeForRemoving": "Doom",
         "stats": []
       },
       "description": "[PAWN] has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
@@ -1364,7 +1362,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": [
           "-18% mental break threshold"
@@ -1392,7 +1390,7 @@
           "greedy"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
@@ -1444,7 +1442,7 @@
           "psychopath"
         ],
         "customName": false,
-		"karmaTypeForAdding": "Neutral",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
@@ -1468,7 +1466,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-		"karmaTypeForAdding": "Doom",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": [
           "Only mental break \"VTE_Kleptomaniac\" allowed."
@@ -1544,6 +1542,8 @@
           "lush"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "Alcohol culture is just part of life for [PAWN]. he absolutely adores booze and would rather die before giving it up.",
@@ -1568,6 +1568,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "+20% surgery success chance factor"
         ]
@@ -1591,6 +1593,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
@@ -1610,6 +1614,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": []
       },
       "description": "For [PAWN], there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
@@ -1656,6 +1662,7 @@
         ],
         "customName": false,
         "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Doom",
         "stats": [
           "x120% tame animal chance",
           "x120% train animal chance"
@@ -1723,6 +1730,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": []
       },
       "description": "The mountains call to [PAWN]. he feels happier just being near a large mountain.",
@@ -1744,6 +1753,8 @@
           "slob"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": []
       },
       "description": "[PAWN] is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
@@ -1790,7 +1801,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": [
           "+20% global work speed",
@@ -1817,6 +1828,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
@@ -1836,6 +1849,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "+15.0 melee dodge chance",
           "x10% trap spring chance"
@@ -1880,6 +1895,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": []
       },
       "description": "The sea calls to [PAWN]. he feels happier just being near the ocean or a deep river.",
@@ -1899,7 +1916,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Good",
+        "karmaTypeForAdding": "Neutral",
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
@@ -1920,6 +1937,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "x65% global work speed"
         ]
@@ -1964,6 +1983,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+1.0 beauty"
         ]
@@ -1989,6 +2010,8 @@
           "dunce"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+20% mental break threshold",
           "x130% research speed"
@@ -2019,6 +2042,8 @@
           "nudist"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
@@ -2041,6 +2066,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "-100% psychic sensitivity"
         ]
@@ -2064,6 +2091,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "-50% psychic sensitivity"
         ]
@@ -2087,6 +2116,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+80% psychic sensitivity"
         ]
@@ -2110,6 +2141,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+40% psychic sensitivity"
         ]
@@ -2133,6 +2166,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": []
       },
       "description": "[PAWN] has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
@@ -2177,6 +2212,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "+50% rest rate multiplier"
         ]
@@ -2202,7 +2239,8 @@
           "submissive"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": []
       },
       "description": "[PAWN] only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
@@ -2226,6 +2264,8 @@
           "ascetic"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "x70% eating speed"
         ]
@@ -2251,6 +2291,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForRemoving": "Doom",
         "stats": [
           "+0.10 move speed",
           "+20% global work speed",
@@ -2308,6 +2349,8 @@
           "volatile"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
@@ -2332,7 +2375,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "+4 medical"
         ]
@@ -2356,6 +2400,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "-90.00% social impact"
         ]
@@ -2382,6 +2427,7 @@
         ],
         "customName": false,
         "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
@@ -2403,7 +2449,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "-35% global work speed"
         ]
@@ -2429,7 +2476,8 @@
           "toosmart"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "-75% global learning factor"
         ]
@@ -2455,7 +2503,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "Go frenzy inspiration disabled.",
           "-0.20 move speed"
@@ -2483,6 +2532,8 @@
           "ascetic"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
@@ -2508,6 +2559,7 @@
         ],
         "customName": false,
         "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Good",
         "stats": []
       },
       "description": "Sour stomach plagues [PAWN] any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
@@ -2530,6 +2582,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "-2.0 beauty"
         ]
@@ -2553,6 +2607,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Bad",
         "stats": [
           "-9% mental break threshold"
         ]
@@ -2581,6 +2637,7 @@
           "lush"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -2712,7 +2769,7 @@
         ],
         "customName": false,
         "karmaTypeForAdding": "Good",
-        "karmaTypeForRemoving": "Neutral",
+        "karmaTypeForRemoving": "Doom",
         "stats": []
       },
       "description": "[PAWN] is strangely hypercoagulating and will bleed much more slowly than most.",
@@ -2736,7 +2793,7 @@
           "thickskinned"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -2765,6 +2822,8 @@
           "slowlearner"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+75% global learning factor",
           "+12% mental break threshold"
@@ -2796,7 +2855,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
@@ -2818,6 +2877,7 @@
         "conflicts": [],
         "customName": false,
         "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Doom",
         "stats": [
           "x50% incoming damage multiplier"
         ]
@@ -2843,6 +2903,8 @@
           "bodypurist"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Doom",
         "stats": []
       },
       "description": "[PAWN] feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
@@ -2866,6 +2928,8 @@
           "brawler"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "-50% aiming time",
           "-5.0 shooting accuracy"
@@ -2893,6 +2957,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
+        "karmaTypeForRemoving": "Doom",
         "stats": [
           "+4 social",
           "+4 crafting",
@@ -2920,6 +2986,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "-1.0 beauty"
         ]
@@ -2943,6 +3011,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
@@ -2964,6 +3034,8 @@
           "kind"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": []
       },
       "description": "[PAWN] is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
@@ -2985,7 +3057,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+40% global work speed",
           "+14% mental break threshold"
@@ -3011,7 +3084,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
+        "karmaTypeForRemoving": "Good",
         "stats": [
           "+15% mental break threshold"
         ]
@@ -3035,6 +3109,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": [
           "+0.2 foraged food amount"
         ]
@@ -3060,7 +3136,7 @@
           "brawler"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
+        "karmaTypeForAdding": "Doom",
         "karmaTypeForRemoving": "Good",
         "stats": [
           "-60% pain shock threshold"
@@ -3093,6 +3169,8 @@
           "slothful"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
@@ -3118,6 +3196,8 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Neutral",
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
@@ -3137,6 +3217,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
       "description": "[PAWN] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
