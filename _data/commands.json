@@ -36,7 +36,7 @@
     "description": "Gives a viewer coins.",
     "name": "Give coins",
     "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Anyone",
+    "userLevel": "Moderator",
     "shortcut": false
   },
   {
@@ -165,7 +165,7 @@
     },
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
-    "usage": "!commands",
+    "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -176,7 +176,7 @@
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
     "usage": "!installedmods",
-    "userLevel": "Moderator",
+    "userLevel": "Anyone",
     "shortcut": false
   },
   {
@@ -576,6 +576,14 @@
     "description": "It's like unstick, but safe for viewers to use.",
     "name": "Unstick me",
     "usage": "!unstickme",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "usage": "!test",
     "userLevel": "Anyone",
     "shortcut": false
   },
