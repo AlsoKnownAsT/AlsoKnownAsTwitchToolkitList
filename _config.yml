@@ -1,6 +1,6 @@
 # Metadata
 title: "T's Twitch Toolkit"
-favicon: https://lh3.googleusercontent.com/-jVm4_gboAh4/WyPzVps7m4I/AAAAAAAABTI/0GtYnDR7Sg8DtfxDbGx4dzpnoreeCZKzACEwYBhgLKtMDAL1OcqxsHZbNNViio2M8O5mm7qvl1lMS3qd6UWxWms0hyVruOnOLHsyZ_LxmpoQx5gWijq2PnIB8trUUYOKxgEWjbpc3H32Kl5m7Gr83GX1fHde66z3_77Oce3uqCpHHUpnp9xCvgaT5h0Jv4LwtMMamTXoZw84IfqPHE-facf3mDwfbh7H21EQgLRJRTcpcTM6qw4hAV5B8uIpV2IaLi5g9MpyYOIpM1fnzTP5GIOaLs8jBuodZSBLJnqV4Qzn86fG4I9wCOb16w5_O2HB_feT93bXCTlW97-IZ8w4rY8QtOcjVVccl8izGu_nsc2I_MtcY7uQbnhNkNmuX-awz72sXHf9wDc5ZXP9FCzDlgUNsREbrfS4MJrzEaGzIZJXi2IWqW1ReNn40urdmpfmLQJbvHfvXpKIr9j4Qy5ECjuSULJocHf-cvMb8ZHJEdCwMPVaqo35ptia2qB9TpS5FBOfRv3sAGZ5heMcoYdjg3H96Lj_BysDmxsldZnLzg1XaBbTBNvxz4h_R7sfYyrFNpPlk7KTXqOPQtELFzhMBgUOOuKe-mtK_maDRGvc92nYlEJhZme6WCCnNj0473fN9NQKuGzf7LDanAfT14eiYrXT1IGkwjNLggwY/w140-h140-p/Profile_T.png
+favicon: assets/img/favicon.png
 description: >-
   An expanded item list specifically genterated for AlsoKnownAsT's Twitch Toolkit
   
@@ -75,8 +75,4 @@ store_redirects:
     - 'surgery'
 
 # Build settings
-remote_theme: SirRandoo/Type-on-Strap
-plugins:
-  -
-
 theme: jekyll-theme-midnight
