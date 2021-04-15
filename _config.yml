@@ -73,3 +73,5 @@ store_redirects:
   item:
     - 'backpack'
     - 'surgery'
+
+theme: jekyll-theme-hacker
