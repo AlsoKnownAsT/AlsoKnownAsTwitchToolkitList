@@ -93,29 +93,9 @@
     "data": {
       "isShortcut": false
     },
-    "description": "Directs you here!",
-    "name": "Purchase list",
-    "usage": "!purchaselist",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
     "description": "Adds you to the name queue.",
     "name": "Join queue",
     "usage": "!join",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you information about Twitch Toolkit.",
-    "name": "Mod info",
-    "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -156,26 +136,6 @@
     "description": "Gives you a brief set of instructions on how to use Twitch Toolkit.",
     "name": "Instructions",
     "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you the current list of commands, which may or may not be this list.",
-    "name": "All commands",
-    "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -576,14 +536,6 @@
     "description": "It's like unstick, but safe for viewers to use.",
     "name": "Unstick me",
     "usage": "!unstickme",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "usage": "!test",
     "userLevel": "Anyone",
     "shortcut": false
   },

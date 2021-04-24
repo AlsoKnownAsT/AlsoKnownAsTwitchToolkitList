@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -77,7 +77,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 8200,
+		"price": 8500,
 		"karmatype": "Doom"
 	},
 	{
@@ -92,22 +92,12 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -128,11 +118,11 @@
 	{
 		"abr": "maninblack",
 		"price": 3000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -152,17 +142,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -197,32 +182,37 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 4000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "infestation",
+		"price": 8500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "manhunterpack",
-		"price": 5000,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -243,7 +233,7 @@
 	{
 		"abr": "pawn",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "trait",
@@ -259,11 +249,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -312,7 +297,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -332,7 +317,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -347,7 +332,7 @@
 	},
 	{
 		"abr": "protectionfee",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -361,5 +346,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 72
+	"total": 69
 }
