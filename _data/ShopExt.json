@@ -16,7 +16,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
+      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -43,7 +43,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] tends to occasionally allow their mind to drift, even in the middle of working.",
+      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [],
       "conflicts": [
         "workaholic",
@@ -74,7 +74,7 @@
           "+20% medical tend quality"
         ]
       },
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit [PAWN] is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
         "+4 intellectual",
         "+4 medical",
@@ -102,7 +102,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
       "stats": [],
       "conflicts": [
         "animallover",
@@ -128,7 +128,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -151,7 +151,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN]'s voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -176,7 +176,7 @@
           "Only mental break \"VTE_PanicFreezing\" allowed."
         ]
       },
-      "description": "[PAWN] feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed."
       ],
@@ -205,7 +205,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [],
       "conflicts": [
         "greedy",
@@ -230,7 +230,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has no sexual attraction to anyone at all.",
+      "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -253,7 +253,7 @@
           "+2.0 beauty"
         ]
       },
-      "description": "[PAWN] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
         "+2.0 beauty"
       ],
@@ -276,7 +276,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, [PAWN] has broken a few chairs in their time and is likely to break more.",
+      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -297,7 +297,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] is romantically attracted to both men and women.",
+      "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -318,7 +318,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -341,7 +341,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
       "stats": [],
       "conflicts": [
         "transhumanist"
@@ -370,7 +370,7 @@
           "+20% pain shock threshold"
         ]
       },
-      "description": "[PAWN] has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
         "-20% mental break threshold",
         "+20% pain shock threshold"
@@ -406,7 +406,7 @@
           "+4.0 melee hit chance"
         ]
       },
-      "description": "[PAWN] likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
+      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
@@ -436,7 +436,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -462,7 +462,7 @@
           "+5.0 shooting accuracy"
         ]
       },
-      "description": "[PAWN] takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
+      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
         "+5.0 shooting accuracy"
@@ -490,7 +490,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -513,7 +513,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -534,7 +534,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -557,7 +557,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "Minor bruises and scrapes plague [PAWN] all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
       "stats": [],
       "conflicts": [
         "nimble"
@@ -584,7 +584,7 @@
           "-18.0F Minimum comfortable temperature"
         ]
       },
-      "description": "[PAWN] loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
         "-18.0F Minimum comfortable temperature"
       ],
@@ -609,7 +609,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "An armchair and flatscreen is all [PAWN] needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -634,7 +634,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "While fully capable of warfare in theory, [PAWN]'s fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
+      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
       "conflicts": [
         "brawler",
@@ -659,7 +659,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] breathes heavily all the time, and sweats constantly. People find it creepy.",
+      "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -680,7 +680,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
+      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -703,7 +703,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
+      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -728,7 +728,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -753,7 +753,7 @@
           "+4 melee"
         ]
       },
-      "description": "[PAWN] is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
       "stats": [
         "+4 melee"
       ],
@@ -784,7 +784,7 @@
           "-50.00% social impact"
         ]
       },
-      "description": "[PAWN] has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
         "-50% global learning factor",
         "-50.00% social impact"
@@ -817,7 +817,7 @@
           "x115% research speed"
         ]
       },
-      "description": "[PAWN] has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
         "x115% research speed"
       ],
@@ -845,7 +845,7 @@
           "+20% butchery efficiency"
         ]
       },
-      "description": "Flora and fauna are both vital to [PAWN]. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
       "stats": [
         "+4 animals",
         "+4 plants",
@@ -873,7 +873,7 @@
           "+75% global learning factor"
         ]
       },
-      "description": "[PAWN] has a knack for learning. he picks things up much faster than others.",
+      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
         "+75% global learning factor"
       ],
@@ -898,7 +898,7 @@
           "+0.20 move speed"
         ]
       },
-      "description": "[PAWN] likes to be where he's going. he walks quicker than most people.",
+      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
         "+0.20 move speed"
       ],
@@ -921,7 +921,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -944,7 +944,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
       "stats": [],
       "conflicts": [
         "anxious"
@@ -971,7 +971,7 @@
           "-25.00% food poison chance"
         ]
       },
-      "description": "In the eyes of [PAWN] food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
       "stats": [
         "+4 cooking",
         "+4 artistic",
@@ -996,7 +996,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] is romantically attracted to people of his own gender.",
+      "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1022,7 +1022,7 @@
           "+4 cooking"
         ]
       },
-      "description": "[PAWN]'s life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
+      "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 cooking"
@@ -1048,7 +1048,7 @@
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
-      "description": "[PAWN] has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1072,7 +1072,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
+      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [],
       "conflicts": [
         "ascetic",
@@ -1101,7 +1101,7 @@
           "+20% construction speed"
         ]
       },
-      "description": "[PAWN] strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
       "stats": [
         "+4 mining",
         "+4 construction",
@@ -1129,7 +1129,7 @@
           "+20% global work speed"
         ]
       },
-      "description": "[PAWN] is a natural hard worker and will finish tasks faster than most.",
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
         "+20% global work speed"
       ],
@@ -1151,7 +1151,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1176,7 +1176,7 @@
           "+18.0F Maximum comfortable temperature"
         ]
       },
-      "description": "[PAWN] loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
         "+18.0F Maximum comfortable temperature"
       ],
@@ -1201,7 +1201,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "A bomb could go off next to [PAWN] while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1224,7 +1224,7 @@
           "+35% global work speed"
         ]
       },
-      "description": "[PAWN] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
         "+35% global work speed"
       ],
@@ -1251,7 +1251,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "No amount of lovin' is enough lovin' for [PAWN]. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [],
       "conflicts": [
         "prude",
@@ -1281,7 +1281,7 @@
           "x70% move speed"
         ]
       },
-      "description": "[PAWN] is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
         "x50% global work speed",
         "x70% move speed"
@@ -1313,7 +1313,7 @@
           "-90.00% social impact"
         ]
       },
-      "description": "[PAWN] is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "description": "Timmy is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
       "stats": [
         "Only mental break \"Berserk\" allowed.",
         "Only mental break \"Slaughterer\" allowed.",
@@ -1343,7 +1343,7 @@
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
-      "description": "[PAWN] has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -1368,7 +1368,7 @@
           "-18% mental break threshold"
         ]
       },
-      "description": "[PAWN]'s will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
+      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
         "-18% mental break threshold"
       ],
@@ -1394,7 +1394,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "For [PAWN], it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [],
       "conflicts": [
         "ascetic",
@@ -1420,7 +1420,7 @@
           "+0.40 move speed"
         ]
       },
-      "description": "[PAWN] always moves with a sense of urgency - so much so that others often fail to keep up.",
+      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
         "+0.40 move speed"
       ],
@@ -1446,7 +1446,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
+      "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
       "stats": [],
       "conflicts": [
         "abrasive",
@@ -1472,7 +1472,7 @@
           "Only mental break \"VTE_Kleptomaniac\" allowed."
         ]
       },
-      "description": "[PAWN] is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -1497,7 +1497,7 @@
           "-20% global work speed"
         ]
       },
-      "description": "[PAWN] is a little bit lazy.",
+      "description": "Timmy is a little bit lazy.",
       "stats": [
         "-20% global work speed"
       ],
@@ -1520,7 +1520,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1546,7 +1546,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "Alcohol culture is just part of life for [PAWN]. he absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -1574,7 +1574,7 @@
           "+20% surgery success chance factor"
         ]
       },
-      "description": "[PAWN] has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -1597,7 +1597,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1618,7 +1618,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "For [PAWN], there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
+      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1668,7 +1668,7 @@
           "x120% train animal chance"
         ]
       },
-      "description": "[PAWN] believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
       "stats": [
         "x120% tame animal chance",
         "x120% train animal chance"
@@ -1693,7 +1693,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] really dislikes and distrusts men.",
+      "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1713,7 +1713,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] really dislikes and distrusts women.",
+      "description": "Timmy really dislikes and distrusts women.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1734,7 +1734,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "The mountains call to [PAWN]. he feels happier just being near a large mountain.",
+      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1757,7 +1757,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
       "stats": [],
       "conflicts": [
         "slob"
@@ -1782,7 +1782,7 @@
           "+8% mental break threshold"
         ]
       },
-      "description": "[PAWN] tends to crack under pressure.",
+      "description": "Timmy tends to crack under pressure.",
       "stats": [
         "+8% mental break threshold"
       ],
@@ -1808,7 +1808,7 @@
           "+8% mental break threshold"
         ]
       },
-      "description": "[PAWN] likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
+      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
         "+20% global work speed",
         "+8% mental break threshold"
@@ -1832,7 +1832,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1856,7 +1856,7 @@
           "x10% trap spring chance"
         ]
       },
-      "description": "[PAWN] has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
+      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
         "+15.0 melee dodge chance",
         "x10% trap spring chance"
@@ -1878,7 +1878,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "[PAWN] enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1899,7 +1899,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "The sea calls to [PAWN]. he feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1920,7 +1920,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] is naturally optimistic about life. It's hard to get him down.",
+      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1943,7 +1943,7 @@
           "x65% global work speed"
         ]
       },
-      "description": "[PAWN] strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
         "x65% global work speed"
       ],
@@ -1966,7 +1966,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] tends to look on the bad side of life.",
+      "description": "Timmy tends to look on the bad side of life.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1989,7 +1989,7 @@
           "+1.0 beauty"
         ]
       },
-      "description": "[PAWN] has a pretty face, which predisposes people to like him.",
+      "description": "Timmy has a pretty face, which predisposes people to like him.",
       "stats": [
         "+1.0 beauty"
       ],
@@ -2017,7 +2017,7 @@
           "x130% research speed"
         ]
       },
-      "description": "[PAWN] is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
       "stats": [
         "+20% mental break threshold",
         "x130% research speed"
@@ -2046,7 +2046,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
+      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
       "stats": [],
       "conflicts": [
         "insatiable",
@@ -2072,7 +2072,7 @@
           "-100% psychic sensitivity"
         ]
       },
-      "description": "[PAWN]'s mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
         "-100% psychic sensitivity"
       ],
@@ -2097,7 +2097,7 @@
           "-50% psychic sensitivity"
         ]
       },
-      "description": "[PAWN]'s mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
+      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
         "-50% psychic sensitivity"
       ],
@@ -2122,7 +2122,7 @@
           "+80% psychic sensitivity"
         ]
       },
-      "description": "[PAWN]'s mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
+      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
         "+80% psychic sensitivity"
       ],
@@ -2147,7 +2147,7 @@
           "+40% psychic sensitivity"
         ]
       },
-      "description": "[PAWN]'s mind is unusually sensitive to psychic phenomena.",
+      "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
       "stats": [
         "+40% psychic sensitivity"
       ],
@@ -2170,7 +2170,7 @@
         "karmaTypeForRemoving": "Bad",
         "stats": []
       },
-      "description": "[PAWN] has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -2193,7 +2193,7 @@
           "Only mental break \"FireStartingSpree\" allowed."
         ]
       },
-      "description": "[PAWN] loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
+      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
         "Only mental break \"FireStartingSpree\" allowed."
       ],
@@ -2218,7 +2218,7 @@
           "+50% rest rate multiplier"
         ]
       },
-      "description": "[PAWN] doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
+      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% rest rate multiplier"
       ],
@@ -2243,7 +2243,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
+      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
       "stats": [],
       "conflicts": [
         "submissive"
@@ -2270,7 +2270,7 @@
           "x70% eating speed"
         ]
       },
-      "description": "Only the finest of culinary creations may grace the lips of [PAWN]. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
       "stats": [
         "x70% eating speed"
       ],
@@ -2327,7 +2327,7 @@
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
-      "description": "[PAWN] is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
+      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -2353,7 +2353,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
       "conflicts": [
         "iron-willed",
@@ -2381,7 +2381,7 @@
           "+4 medical"
         ]
       },
-      "description": "[PAWN] has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
+      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 medical"
       ],
@@ -2430,7 +2430,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2455,7 +2455,7 @@
           "-35% global work speed"
         ]
       },
-      "description": "[PAWN] loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
+      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% global work speed"
       ],
@@ -2482,7 +2482,7 @@
           "-75% global learning factor"
         ]
       },
-      "description": "[PAWN] is slow on the uptake. he learns much slower than others.",
+      "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
         "-75% global learning factor"
       ],
@@ -2510,7 +2510,7 @@
           "-0.20 move speed"
         ]
       },
-      "description": "[PAWN] is always falling behind the group whenever he goes anywhere.",
+      "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
         "Go frenzy inspiration disabled.",
         "-0.20 move speed"
@@ -2536,7 +2536,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
       "stats": [],
       "conflicts": [
         "ascetic"
@@ -2562,7 +2562,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "Sour stomach plagues [PAWN] any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
         "ironstomach",
@@ -2588,7 +2588,7 @@
           "-2.0 beauty"
         ]
       },
-      "description": "[PAWN] is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
+      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
         "-2.0 beauty"
       ],
@@ -2613,7 +2613,7 @@
           "-9% mental break threshold"
         ]
       },
-      "description": "[PAWN] is mentally tough and won't break down under stresses that would crack most people.",
+      "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
         "-9% mental break threshold"
       ],
@@ -2641,7 +2641,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "Smokeleaf culture is just part of life for [PAWN]. he absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -2667,7 +2667,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "[PAWN] needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
+      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
       "stats": [],
       "conflicts": [
         "rebel"
@@ -2692,7 +2692,7 @@
           "+30% immunity gain speed"
         ]
       },
-      "description": "[PAWN] has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
+      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
         "+30% immunity gain speed"
       ],
@@ -2718,7 +2718,7 @@
           "Only mental break \"VTE_TechnophobeTantrum\" allowed."
         ]
       },
-      "description": "Whether by past trauma or fear of change, [PAWN] rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -2746,7 +2746,7 @@
           "Binging on drug mental state disabled."
         ]
       },
-      "description": "[PAWN] abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
         "Binging on drug mental state disabled.",
         "Binging on drug mental state disabled."
@@ -2772,7 +2772,7 @@
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
-      "description": "[PAWN] is strangely hypercoagulating and will bleed much more slowly than most.",
+      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
       "stats": [],
       "conflicts": [
         "thinskinned"
@@ -2797,7 +2797,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] is strangely hemophilic and tends to bleed much more profusely than others.",
+      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
       "stats": [],
       "conflicts": [
         "thickskinned"
@@ -2829,7 +2829,7 @@
           "+12% mental break threshold"
         ]
       },
-      "description": "[PAWN] is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
+      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% global learning factor",
         "+12% mental break threshold"
@@ -2859,7 +2859,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
+      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -2882,7 +2882,7 @@
           "x50% incoming damage multiplier"
         ]
       },
-      "description": "[PAWN] has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
+      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
         "x50% incoming damage multiplier"
       ],
@@ -2907,7 +2907,7 @@
         "karmaTypeForRemoving": "Doom",
         "stats": []
       },
-      "description": "[PAWN] feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
       "stats": [],
       "conflicts": [
         "bodypurist"
@@ -2935,7 +2935,7 @@
           "-5.0 shooting accuracy"
         ]
       },
-      "description": "Pew! Pew! Pew! [PAWN] just likes pulling the trigger. he shoots faster than others, but less accurately.",
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
         "-5.0 shooting accuracy"
@@ -2965,7 +2965,7 @@
           "+25.00% trade price improvement"
         ]
       },
-      "description": "[PAWN] has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -2992,7 +2992,7 @@
           "-1.0 beauty"
         ]
       },
-      "description": "[PAWN] is somewhat ugly. This subtly repels others during social interactions.",
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
         "-1.0 beauty"
       ],
@@ -3015,7 +3015,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -3038,7 +3038,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
+      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
       "stats": [],
       "conflicts": [
         "kind"
@@ -3064,7 +3064,7 @@
           "+14% mental break threshold"
         ]
       },
-      "description": "[PAWN] feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
+      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
         "+40% global work speed",
         "+14% mental break threshold"
@@ -3090,7 +3090,7 @@
           "+15% mental break threshold"
         ]
       },
-      "description": "[PAWN] is on a hair-trigger all the time. he is the first to break in any tough situation.",
+      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
         "+15% mental break threshold"
       ],
@@ -3115,7 +3115,7 @@
           "+0.2 foraged food amount"
         ]
       },
-      "description": "[PAWN] loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
       "stats": [
         "+0.2 foraged food amount"
       ],
@@ -3142,7 +3142,7 @@
           "-60% pain shock threshold"
         ]
       },
-      "description": "[PAWN] is weak and cowardly. Even a little pain will immobilize him.",
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
         "-60% pain shock threshold"
       ],
@@ -3173,7 +3173,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
       "conflicts": [
         "absent-minded",
@@ -3200,7 +3200,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -3220,7 +3220,7 @@
         "karmaTypeForRemoving": "Neutral",
         "stats": []
       },
-      "description": "[PAWN] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -3240,7 +3240,7 @@
         "karmaTypeForRemoving": "Good",
         "stats": []
       },
-      "description": "[PAWN] hates and distrusts xenos. They see them as little more than animals.",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -3268,7 +3268,7 @@
     {
       "price": 2000,
       "defName": "Android1Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T1 Android",
       "data": {
         "customName": false
@@ -3277,7 +3277,7 @@
     {
       "price": 4000,
       "defName": "Android2Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T2 Android",
       "data": {
         "customName": false
@@ -3286,7 +3286,7 @@
     {
       "price": 8000,
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "data": {
         "customName": false
@@ -3295,7 +3295,7 @@
     {
       "price": 10000,
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "data": {
         "customName": false
@@ -3304,7 +3304,7 @@
     {
       "price": 15000,
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
       "data": {
         "customName": false
