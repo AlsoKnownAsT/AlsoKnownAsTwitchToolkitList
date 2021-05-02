@@ -8689,12 +8689,6 @@
 		"defname": "Painting"
 	},
 	{
-		"abr": "safe",
-		"price": 1017,
-		"category": "Furniture",
-		"defname": "LWM_Safe"
-	},
-	{
 		"abr": "sign",
 		"price": 50,
 		"category": "Misc",
@@ -8730,6 +8724,2688 @@
 		"category": "Grenades",
 		"defname": "VWE_TearGasGrenade"
 	},
+	{
+		"abr": "teargaslauncher",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_TearGasLauncher"
+	},
+	{
+		"abr": "largearrowlongsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowLong"
+	},
+	{
+		"abr": "largearrowshortsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowShort"
+	},
+	{
+		"abr": "largearrowwidesymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalArrowWide"
+	},
+	{
+		"abr": "largedecallinedouble",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDouble"
+	},
+	{
+		"abr": "largedecallinedoubleinnercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDoubleCornerInner"
+	},
+	{
+		"abr": "largedecallinedoubleoutercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineDoubleCornerOuter"
+	},
+	{
+		"abr": "largedecallinethin",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThin"
+	},
+	{
+		"abr": "largedecallinethininnercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThinCornerInner"
+	},
+	{
+		"abr": "largedecallinethinoutercorner",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalLineThinCornerOuter"
+	},
+	{
+		"abr": "largeasymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolA"
+	},
+	{
+		"abr": "largebsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolB"
+	},
+	{
+		"abr": "largecsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolC"
+	},
+	{
+		"abr": "largedsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolD"
+	},
+	{
+		"abr": "largeesymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolE"
+	},
+	{
+		"abr": "largefsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolF"
+	},
+	{
+		"abr": "largegsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolG"
+	},
+	{
+		"abr": "largehsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolH"
+	},
+	{
+		"abr": "largeisymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolI"
+	},
+	{
+		"abr": "largejsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolJ"
+	},
+	{
+		"abr": "largeksymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolK"
+	},
+	{
+		"abr": "largelsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolL"
+	},
+	{
+		"abr": "largemsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolM"
+	},
+	{
+		"abr": "largensymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolN"
+	},
+	{
+		"abr": "largeosymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolO"
+	},
+	{
+		"abr": "largepsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolP"
+	},
+	{
+		"abr": "largeqsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolQ"
+	},
+	{
+		"abr": "largevsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolV"
+	},
+	{
+		"abr": "largersymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolR"
+	},
+	{
+		"abr": "largessymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolS"
+	},
+	{
+		"abr": "largetsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolT"
+	},
+	{
+		"abr": "largeusymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolU"
+	},
+	{
+		"abr": "largewsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolW"
+	},
+	{
+		"abr": "largexsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolX"
+	},
+	{
+		"abr": "largeysymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolY"
+	},
+	{
+		"abr": "largezsymbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolZ"
+	},
+	{
+		"abr": "large1symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolOne"
+	},
+	{
+		"abr": "large2symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolTwo"
+	},
+	{
+		"abr": "large3symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolThree"
+	},
+	{
+		"abr": "large4symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolFour"
+	},
+	{
+		"abr": "large5symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolFive"
+	},
+	{
+		"abr": "large6symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolSix"
+	},
+	{
+		"abr": "large7symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolSeven"
+	},
+	{
+		"abr": "large8symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolEight"
+	},
+	{
+		"abr": "large9symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolNine"
+	},
+	{
+		"abr": "large0symbol",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalSymbolZero"
+	},
+	{
+		"abr": "largearmorydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordArmory"
+	},
+	{
+		"abr": "largebarracksdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordBarracks"
+	},
+	{
+		"abr": "largeblockdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordBlock"
+	},
+	{
+		"abr": "largecafeteriadecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCafeteria"
+	},
+	{
+		"abr": "largecargodecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCargo"
+	},
+	{
+		"abr": "largechamberdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordChamber"
+	},
+	{
+		"abr": "largeclimatedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordClimate"
+	},
+	{
+		"abr": "largecommanddecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordCommand"
+	},
+	{
+		"abr": "largecontroldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordControl"
+	},
+	{
+		"abr": "largeengineerdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordEngineer"
+	},
+	{
+		"abr": "largefarmingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFarming"
+	},
+	{
+		"abr": "largefreezerdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFreezer"
+	},
+	{
+		"abr": "largefridgedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordFridge"
+	},
+	{
+		"abr": "largehangardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordHangar"
+	},
+	{
+		"abr": "largehospitaldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordHospital"
+	},
+	{
+		"abr": "largekilldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordKill"
+	},
+	{
+		"abr": "largekitchendecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordKitchen"
+	},
+	{
+		"abr": "largelandingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordLanding"
+	},
+	{
+		"abr": "largemedicaldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMedical"
+	},
+	{
+		"abr": "largemessdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMess"
+	},
+	{
+		"abr": "largemorguedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMorgue"
+	},
+	{
+		"abr": "largemortardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordMortar"
+	},
+	{
+		"abr": "largeplaydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordPlay"
+	},
+	{
+		"abr": "largeprisondecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordPrison"
+	},
+	{
+		"abr": "largereactordecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordReactor"
+	},
+	{
+		"abr": "largerecreationdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRecreation"
+	},
+	{
+		"abr": "largerefinerydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRefinery"
+	},
+	{
+		"abr": "largerelaxdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordRelax"
+	},
+	{
+		"abr": "largeresearchdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordResearch"
+	},
+	{
+		"abr": "largesecuritydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSecurity"
+	},
+	{
+		"abr": "largeshippingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordShipping"
+	},
+	{
+		"abr": "largesleepingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSleeping"
+	},
+	{
+		"abr": "largesmeltingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmelting"
+	},
+	{
+		"abr": "largestoragedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordStorage"
+	},
+	{
+		"abr": "largewarningdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordWarning"
+	},
+	{
+		"abr": "largeworkshopdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordWorkshop"
+	},
+	{
+		"abr": "largebasedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBase"
+	},
+	{
+		"abr": "largebaydecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBay"
+	},
+	{
+		"abr": "largeboxdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallBox"
+	},
+	{
+		"abr": "largecelldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallCell"
+	},
+	{
+		"abr": "largecleardecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallClear"
+	},
+	{
+		"abr": "largedockdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallDock"
+	},
+	{
+		"abr": "largegasdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallGas"
+	},
+	{
+		"abr": "largehalldecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallHall"
+	},
+	{
+		"abr": "largekeepdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallKeep"
+	},
+	{
+		"abr": "largelabdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallLab"
+	},
+	{
+		"abr": "largepaddecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallPad"
+	},
+	{
+		"abr": "largeroomdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallRoom"
+	},
+	{
+		"abr": "largewingdecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallWing"
+	},
+	{
+		"abr": "largezonedecal",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_LargeDecalWordSmallZone"
+	},
+	{
+		"abr": "arrowlongsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowLong"
+	},
+	{
+		"abr": "arrowshortsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowShort"
+	},
+	{
+		"abr": "arrowwidesymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalArrowWide"
+	},
+	{
+		"abr": "decallinedouble",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDouble"
+	},
+	{
+		"abr": "decallinedoubleinnercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDoubleCornerInner"
+	},
+	{
+		"abr": "decallinedoubleoutercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineDoubleCornerOuter"
+	},
+	{
+		"abr": "decallinethin",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThin"
+	},
+	{
+		"abr": "decallinethininnercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThinCornerInner"
+	},
+	{
+		"abr": "decallinethinoutercorner",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalLineThinCornerOuter"
+	},
+	{
+		"abr": "asymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolA"
+	},
+	{
+		"abr": "bsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolB"
+	},
+	{
+		"abr": "csymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolC"
+	},
+	{
+		"abr": "dsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolD"
+	},
+	{
+		"abr": "esymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolE"
+	},
+	{
+		"abr": "fsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolF"
+	},
+	{
+		"abr": "gsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolG"
+	},
+	{
+		"abr": "hsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolH"
+	},
+	{
+		"abr": "isymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolI"
+	},
+	{
+		"abr": "jsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolJ"
+	},
+	{
+		"abr": "ksymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolK"
+	},
+	{
+		"abr": "lsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolL"
+	},
+	{
+		"abr": "msymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolM"
+	},
+	{
+		"abr": "nsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolN"
+	},
+	{
+		"abr": "osymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolO"
+	},
+	{
+		"abr": "psymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolP"
+	},
+	{
+		"abr": "qsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolQ"
+	},
+	{
+		"abr": "vsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolV"
+	},
+	{
+		"abr": "rsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolR"
+	},
+	{
+		"abr": "ssymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolS"
+	},
+	{
+		"abr": "tsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolT"
+	},
+	{
+		"abr": "usymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolU"
+	},
+	{
+		"abr": "wsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolW"
+	},
+	{
+		"abr": "xsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolX"
+	},
+	{
+		"abr": "ysymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolY"
+	},
+	{
+		"abr": "zsymbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolZ"
+	},
+	{
+		"abr": "1symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolOne"
+	},
+	{
+		"abr": "2symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolTwo"
+	},
+	{
+		"abr": "3symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolThree"
+	},
+	{
+		"abr": "4symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolFour"
+	},
+	{
+		"abr": "5symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolFive"
+	},
+	{
+		"abr": "6symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolSix"
+	},
+	{
+		"abr": "7symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolSeven"
+	},
+	{
+		"abr": "8symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolEight"
+	},
+	{
+		"abr": "9symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolNine"
+	},
+	{
+		"abr": "0symbol",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalSymbolZero"
+	},
+	{
+		"abr": "armorydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordArmory"
+	},
+	{
+		"abr": "barracksdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordBarracks"
+	},
+	{
+		"abr": "blockdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordBlock"
+	},
+	{
+		"abr": "cafeteriadecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCafeteria"
+	},
+	{
+		"abr": "cargodecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCargo"
+	},
+	{
+		"abr": "chamberdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordChamber"
+	},
+	{
+		"abr": "climatedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordClimate"
+	},
+	{
+		"abr": "commanddecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordCommand"
+	},
+	{
+		"abr": "controldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordControl"
+	},
+	{
+		"abr": "engineerdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordEngineer"
+	},
+	{
+		"abr": "farmingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFarming"
+	},
+	{
+		"abr": "freezerdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFreezer"
+	},
+	{
+		"abr": "fridgedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordFridge"
+	},
+	{
+		"abr": "hangardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordHangar"
+	},
+	{
+		"abr": "hospitaldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordHospital"
+	},
+	{
+		"abr": "killdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordKill"
+	},
+	{
+		"abr": "kitchendecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordKitchen"
+	},
+	{
+		"abr": "landingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordLanding"
+	},
+	{
+		"abr": "medicaldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMedical"
+	},
+	{
+		"abr": "messdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMess"
+	},
+	{
+		"abr": "morguedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMorgue"
+	},
+	{
+		"abr": "mortardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordMortar"
+	},
+	{
+		"abr": "playdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordPlay"
+	},
+	{
+		"abr": "prisondecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordPrison"
+	},
+	{
+		"abr": "reactordecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordReactor"
+	},
+	{
+		"abr": "recreationdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRecreation"
+	},
+	{
+		"abr": "refinerydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRefinery"
+	},
+	{
+		"abr": "relaxdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordRelax"
+	},
+	{
+		"abr": "researchdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordResearch"
+	},
+	{
+		"abr": "securitydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSecurity"
+	},
+	{
+		"abr": "shippingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordShipping"
+	},
+	{
+		"abr": "sleepingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSleeping"
+	},
+	{
+		"abr": "smeltingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmelting"
+	},
+	{
+		"abr": "storagedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordStorage"
+	},
+	{
+		"abr": "warningdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordWarning"
+	},
+	{
+		"abr": "workshopdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordWorkshop"
+	},
+	{
+		"abr": "basedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBase"
+	},
+	{
+		"abr": "baydecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBay"
+	},
+	{
+		"abr": "boxdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallBox"
+	},
+	{
+		"abr": "celldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallCell"
+	},
+	{
+		"abr": "cleardecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallClear"
+	},
+	{
+		"abr": "dockdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallDock"
+	},
+	{
+		"abr": "gasdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallGas"
+	},
+	{
+		"abr": "halldecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallHall"
+	},
+	{
+		"abr": "keepdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallKeep"
+	},
+	{
+		"abr": "labdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallLab"
+	},
+	{
+		"abr": "paddecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallPad"
+	},
+	{
+		"abr": "roomdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallRoom"
+	},
+	{
+		"abr": "wingdecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallWing"
+	},
+	{
+		"abr": "zonedecal",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_DecalWordSmallZone"
+	},
+	{
+		"abr": "emptyfoodboxes",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_FoodBox"
+	},
+	{
+		"abr": "largehaybale",
+		"price": 101,
+		"category": "",
+		"defname": "VFEPD_HayBaleLarge"
+	},
+	{
+		"abr": "mediumhaybale",
+		"price": 51,
+		"category": "",
+		"defname": "VFEPD_HayBaleMedium"
+	},
+	{
+		"abr": "smallhaybale",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_HayBaleSmall"
+	},
+	{
+		"abr": "hedge",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_Hedge"
+	},
+	{
+		"abr": "woodenlogs",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_WoodenLogs"
+	},
+	{
+		"abr": "largewoodenlogs",
+		"price": 41,
+		"category": "",
+		"defname": "VFEPD_WoodenLogsLarge"
+	},
+	{
+		"abr": "woodenwagon",
+		"price": 61,
+		"category": "",
+		"defname": "VFEPD_WoodenWagon"
+	},
+	{
+		"abr": "dirt",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthDirt"
+	},
+	{
+		"abr": "animalfilth",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAnimalFilth"
+	},
+	{
+		"abr": "sand",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthSand"
+	},
+	{
+		"abr": "trash",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthTrash"
+	},
+	{
+		"abr": "rockrubble",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleRock"
+	},
+	{
+		"abr": "scatteredslag",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleSlag"
+	},
+	{
+		"abr": "scatteredsandbags",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthRubbleSandbags"
+	},
+	{
+		"abr": "blood",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthBlood"
+	},
+	{
+		"abr": "bugblood",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthBugBlood"
+	},
+	{
+		"abr": "machinebits",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthMachineBits"
+	},
+	{
+		"abr": "amnioticfluid",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAmnioticFluid"
+	},
+	{
+		"abr": "slime",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthSlime"
+	},
+	{
+		"abr": "vomit",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthVomit"
+	},
+	{
+		"abr": "firefoam",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthFireFoam"
+	},
+	{
+		"abr": "chemfuelpuddle",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthChemfuel"
+	},
+	{
+		"abr": "corpsebile",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthCorpseBile"
+	},
+	{
+		"abr": "ash",
+		"price": 3,
+		"category": "",
+		"defname": "VFEPD_FilthAsh"
+	},
+	{
+		"abr": "steelatm",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelATM"
+	},
+	{
+		"abr": "plasteelatm",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelATM"
+	},
+	{
+		"abr": "silveratm",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverATM"
+	},
+	{
+		"abr": "woodenatm",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenATM"
+	},
+	{
+		"abr": "steelbookshelf",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelBookshelf"
+	},
+	{
+		"abr": "plasteelbookshelf",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelBookshelf"
+	},
+	{
+		"abr": "silverbookshelf",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverBookshelf"
+	},
+	{
+		"abr": "woodenbookshelf",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenBookshelf"
+	},
+	{
+		"abr": "steelcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboard"
+	},
+	{
+		"abr": "plasteelcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboard"
+	},
+	{
+		"abr": "silvercupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboard"
+	},
+	{
+		"abr": "woodencupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboard"
+	},
+	{
+		"abr": "steeldoublecupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardDouble"
+	},
+	{
+		"abr": "plasteeldoublecupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardDouble"
+	},
+	{
+		"abr": "silverdoublecupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardDouble"
+	},
+	{
+		"abr": "woodendoublecupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardDouble"
+	},
+	{
+		"abr": "steelcupboardwithplates",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardPlates"
+	},
+	{
+		"abr": "plasteelcupboardwithplates",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardPlates"
+	},
+	{
+		"abr": "silvercupboardwithplates",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardPlates"
+	},
+	{
+		"abr": "woodencupboardwithplates",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardPlates"
+	},
+	{
+		"abr": "steelnarrowcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelCupboardNarrow"
+	},
+	{
+		"abr": "plasteelnarrowcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelCupboardNarrow"
+	},
+	{
+		"abr": "silvernarrowcupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverCupboardNarrow"
+	},
+	{
+		"abr": "woodennarrowcupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenCupboardNarrow"
+	},
+	{
+		"abr": "steeltallcabinet",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelTallCabinet"
+	},
+	{
+		"abr": "plasteeltallcabinet",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelTallCabinet"
+	},
+	{
+		"abr": "silvertallcabinet",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverTallCabinet"
+	},
+	{
+		"abr": "woodentallcabinet",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenTallCabinet"
+	},
+	{
+		"abr": "steelshortcupboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelShortCupboard"
+	},
+	{
+		"abr": "plasteelshortcupboard",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelShortCupboard"
+	},
+	{
+		"abr": "silvershortcupboard",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverShortCupboard"
+	},
+	{
+		"abr": "woodenshortcupboard",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenShortCupboard"
+	},
+	{
+		"abr": "steelshortcupboardwithplates",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelShortCupboardPlates"
+	},
+	{
+		"abr": "plasteelshortcupboardwithplates",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelShortCupboardPlates"
+	},
+	{
+		"abr": "silvershortcupboardwithplates",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverShortCupboardPlates"
+	},
+	{
+		"abr": "woodenshortcupboardwithplates",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenShortCupboardPlates"
+	},
+	{
+		"abr": "steeldivider",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelDivider"
+	},
+	{
+		"abr": "plasteeldivider",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelDivider"
+	},
+	{
+		"abr": "silverdivider",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverDivider"
+	},
+	{
+		"abr": "woodendivider",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenDivider"
+	},
+	{
+		"abr": "steelplankdivider",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelPlankDivider"
+	},
+	{
+		"abr": "plasteelplankdivider",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelPlankDivider"
+	},
+	{
+		"abr": "silverplankdivider",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverPlankDivider"
+	},
+	{
+		"abr": "woodenplankdivider",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenPlankDivider"
+	},
+	{
+		"abr": "steelmirror",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelMirror"
+	},
+	{
+		"abr": "plasteelmirror",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelMirror"
+	},
+	{
+		"abr": "silvermirror",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverMirror"
+	},
+	{
+		"abr": "woodenmirror",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenMirror"
+	},
+	{
+		"abr": "steelvendingmachine",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_SteelVendingMachine"
+	},
+	{
+		"abr": "plasteelvendingmachine",
+		"price": 151,
+		"category": "",
+		"defname": "VFEPD_PlasteelVendingMachine"
+	},
+	{
+		"abr": "silvervendingmachine",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_SilverVendingMachine"
+	},
+	{
+		"abr": "woodenvendingmachine",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenVendingMachine"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_WashingMachine"
+	},
+	{
+		"abr": "warehouseshelf",
+		"price": 48,
+		"category": "",
+		"defname": "VFEPD_WarehouseShelfEmpty"
+	},
+	{
+		"abr": "warehouseshelfwithboxes",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_WarehouseShelfBoxes"
+	},
+	{
+		"abr": "binbag",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_BinBag"
+	},
+	{
+		"abr": "largewoodenbox",
+		"price": 41,
+		"category": "",
+		"defname": "VFEPD_BoxLarge"
+	},
+	{
+		"abr": "smallwoodenbox",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_BoxSmall"
+	},
+	{
+		"abr": "largecardboardbox",
+		"price": 12,
+		"category": "",
+		"defname": "VFEPD_CardboardBoxLarge"
+	},
+	{
+		"abr": "smallcardboardbox",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_CardboardBoxSmall"
+	},
+	{
+		"abr": "brickpile",
+		"price": 17,
+		"category": "",
+		"defname": "VFEPD_BrickPile"
+	},
+	{
+		"abr": "greenbarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BarrelGreen"
+	},
+	{
+		"abr": "greybarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BarrelGrey"
+	},
+	{
+		"abr": "redbarrel",
+		"price": 45,
+		"category": "",
+		"defname": "VFEPD_BarrelRed"
+	},
+	{
+		"abr": "yellowbarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BarrelYellow"
+	},
+	{
+		"abr": "bluebarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BarrelBlue"
+	},
+	{
+		"abr": "palletwithcardboardboxes",
+		"price": 42,
+		"category": "",
+		"defname": "VFEPD_PalletCardboard"
+	},
+	{
+		"abr": "palletwithwoodenboxes",
+		"price": 122,
+		"category": "",
+		"defname": "VFEPD_PalletBoxes"
+	},
+	{
+		"abr": "pallet",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_Pallet"
+	},
+	{
+		"abr": "palletwithgreenbarrels",
+		"price": 54,
+		"category": "",
+		"defname": "VFEPD_PalletBarrelGreen"
+	},
+	{
+		"abr": "palletwithgreybarrels",
+		"price": 54,
+		"category": "",
+		"defname": "VFEPD_PalletBarrelGrey"
+	},
+	{
+		"abr": "palletwithredbarrels",
+		"price": 169,
+		"category": "",
+		"defname": "VFEPD_PalletBarrelRed"
+	},
+	{
+		"abr": "palletwithyellowbarrels",
+		"price": 54,
+		"category": "",
+		"defname": "VFEPD_PalletBarrelYellow"
+	},
+	{
+		"abr": "palletwithbluebarrels",
+		"price": 54,
+		"category": "",
+		"defname": "VFEPD_PalletBarrelBlue"
+	},
+	{
+		"abr": "greencargocontainer",
+		"price": 161,
+		"category": "",
+		"defname": "VFEPD_ContainerGreen"
+	},
+	{
+		"abr": "greycargocontainer",
+		"price": 161,
+		"category": "",
+		"defname": "VFEPD_ContainerGrey"
+	},
+	{
+		"abr": "redcargocontainer",
+		"price": 161,
+		"category": "",
+		"defname": "VFEPD_ContainerRed"
+	},
+	{
+		"abr": "yellowcargocontainer",
+		"price": 161,
+		"category": "",
+		"defname": "VFEPD_ContainerYellow"
+	},
+	{
+		"abr": "bluecargocontainer",
+		"price": 161,
+		"category": "",
+		"defname": "VFEPD_ContainerBlue"
+	},
+	{
+		"abr": "stackofpipes",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Pipes"
+	},
+	{
+		"abr": "stackofplanks",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_Planks"
+	},
+	{
+		"abr": "cone",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Cone"
+	},
+	{
+		"abr": "concretebags",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_ConcreteBags"
+	},
+	{
+		"abr": "watertank",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_WaterTank"
+	},
+	{
+		"abr": "ventilationshaft",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_VentilationShaft"
+	},
+	{
+		"abr": "electricalcabinet",
+		"price": 19,
+		"category": "",
+		"defname": "VFEPD_ElectricalCabinet"
+	},
+	{
+		"abr": "lockers",
+		"price": 19,
+		"category": "",
+		"defname": "VFEPD_Lockers"
+	},
+	{
+		"abr": "gastank",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_GasTank"
+	},
+	{
+		"abr": "brewingbarrel",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BrewingBarrel"
+	},
+	{
+		"abr": "cooker",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Cooker"
+	},
+	{
+		"abr": "microwave",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Microwave"
+	},
+	{
+		"abr": "oven",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_Oven"
+	},
+	{
+		"abr": "fridge",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_Fridge"
+	},
+	{
+		"abr": "waterdispenser",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_WaterDispenser"
+	},
+	{
+		"abr": "foodtrolley",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_FoodTrolley"
+	},
+	{
+		"abr": "kitchensurface",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSurface"
+	},
+	{
+		"abr": "kitchensurfaceempty",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSurfaceEmpty"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_KitchenSink"
+	},
+	{
+		"abr": "winerack",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_WineRack"
+	},
+	{
+		"abr": "mopbucket",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_MopBucket"
+	},
+	{
+		"abr": "cookingappliances",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_CookingAppliances"
+	},
+	{
+		"abr": "cuttingboard",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_CuttingBoard"
+	},
+	{
+		"abr": "knives",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Knives"
+	},
+	{
+		"abr": "dinnerset",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_DinnerSet"
+	},
+	{
+		"abr": "spices",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_Spices"
+	},
+	{
+		"abr": "anvil",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Anvil"
+	},
+	{
+		"abr": "emptyarmorstand",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_ArmorStandEmpty"
+	},
+	{
+		"abr": "fullarmorstand",
+		"price": 26,
+		"category": "",
+		"defname": "VFEPD_ArmorStandFull"
+	},
+	{
+		"abr": "arrowcage",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_ArrowCage"
+	},
+	{
+		"abr": "emptybucket",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_BucketEmpty"
+	},
+	{
+		"abr": "waterbucket",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_BucketwithWater"
+	},
+	{
+		"abr": "woodenchest",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WoodenChest"
+	},
+	{
+		"abr": "largewoodenchest",
+		"price": 41,
+		"category": "",
+		"defname": "VFEPD_WoodenChestLarge"
+	},
+	{
+		"abr": "emptyweaponrack",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_WeaponRackEmpty"
+	},
+	{
+		"abr": "swordweaponrack",
+		"price": 36,
+		"category": "",
+		"defname": "VFEPD_WeaponRackSwords"
+	},
+	{
+		"abr": "spearsweaponrack",
+		"price": 36,
+		"category": "",
+		"defname": "VFEPD_WeaponRackSpears"
+	},
+	{
+		"abr": "woodensign",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_WoodenSign"
+	},
+	{
+		"abr": "tanningrack",
+		"price": 21,
+		"category": "",
+		"defname": "VFEPD_TanningRack"
+	},
+	{
+		"abr": "woodenplatform",
+		"price": 5,
+		"category": "",
+		"defname": "VFEPD_WoodenPlatform"
+	},
+	{
+		"abr": "cageplatform",
+		"price": 7,
+		"category": "",
+		"defname": "VFEPD_CagePlatform"
+	},
+	{
+		"abr": "glowstool",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Glowstool"
+	},
+	{
+		"abr": "agarilux",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Agarilux"
+	},
+	{
+		"abr": "bryolux",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Bryolux"
+	},
+	{
+		"abr": "rose",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Rose"
+	},
+	{
+		"abr": "daylily",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Daylily"
+	},
+	{
+		"abr": "riceplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Rice"
+	},
+	{
+		"abr": "potatoplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Potato"
+	},
+	{
+		"abr": "cornplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Corn"
+	},
+	{
+		"abr": "strawberryplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Strawberry"
+	},
+	{
+		"abr": "haygrass",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Haygrass"
+	},
+	{
+		"abr": "cottonplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Cotton"
+	},
+	{
+		"abr": "devilstrand",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Devilstrand"
+	},
+	{
+		"abr": "healroot",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Healroot"
+	},
+	{
+		"abr": "hopplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Hops"
+	},
+	{
+		"abr": "smokeleafplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Smokeleaf"
+	},
+	{
+		"abr": "psychoidplant",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Psychoid"
+	},
+	{
+		"abr": "burnedtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BurnedTree"
+	},
+	{
+		"abr": "willowtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_WillowTree"
+	},
+	{
+		"abr": "cypresstree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_CypressTree"
+	},
+	{
+		"abr": "mapletree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_MapleTree"
+	},
+	{
+		"abr": "chokevine",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_Chokevine"
+	},
+	{
+		"abr": "oaktree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_OakTree"
+	},
+	{
+		"abr": "poplartree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PoplarTree"
+	},
+	{
+		"abr": "pinetree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PineTree"
+	},
+	{
+		"abr": "birchtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BirchTree"
+	},
+	{
+		"abr": "teaktree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_TeakTree"
+	},
+	{
+		"abr": "cecropiatree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_CecropiaTree"
+	},
+	{
+		"abr": "palmtree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_PalmTree"
+	},
+	{
+		"abr": "bambootree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_BambooTree"
+	},
+	{
+		"abr": "dragotree",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_DragoTree"
+	},
+	{
+		"abr": "saguarocactus",
+		"price": 10,
+		"category": "",
+		"defname": "VFEPD_SaguaroCactus"
+	},
+	{
+		"abr": "agave",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_Agave"
+	},
+	{
+		"abr": "pincushioncactus",
+		"price": 4,
+		"category": "",
+		"defname": "VFEPD_PincushionCactus"
+	},
+	{
+		"abr": "shortgrass",
+		"price": 2,
+		"category": "",
+		"defname": "VFEPD_GrassShort"
+	},
+	{
+		"abr": "longgrass",
+		"price": 2,
+		"category": "",
+		"defname": "VFEPD_GrassLong"
+	},
+	{
+		"abr": "bush",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Bush"
+	},
+	{
+		"abr": "brambles",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Brambles"
+	},
+	{
+		"abr": "berrybush",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_BerryBush"
+	},
+	{
+		"abr": "alocasia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Alocasia"
+	},
+	{
+		"abr": "clivia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Clivia"
+	},
+	{
+		"abr": "giantrafflesia",
+		"price": 6,
+		"category": "",
+		"defname": "VFEPD_Rafflesia"
+	},
+	{
+		"abr": "advancedrotor",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_AdvancedRotor"
+	},
+	{
+		"abr": "rotor",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Rotor"
+	},
+	{
+		"abr": "battery",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Battery"
+	},
+	{
+		"abr": "exhaust",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_Exhaust"
+	},
+	{
+		"abr": "smallexhaust",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SmallExhaust"
+	},
+	{
+		"abr": "generator",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_Generator"
+	},
+	{
+		"abr": "industrialgenerator",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_IndustrialGenerator"
+	},
+	{
+		"abr": "generatorunit",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_GeneratorUnitLarge"
+	},
+	{
+		"abr": "smallgeneratorunit",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_GeneratorUnitSmall"
+	},
+	{
+		"abr": "gasstorageunit",
+		"price": 64,
+		"category": "",
+		"defname": "VFEPD_GasStorageUnit"
+	},
+	{
+		"abr": "toxicwastebarrel",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_ToxicWasteBarrel"
+	},
+	{
+		"abr": "powerconverter",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_PowerConverter"
+	},
+	{
+		"abr": "largechemfueltank",
+		"price": 180,
+		"category": "",
+		"defname": "VFEPD_ChemfuelTank"
+	},
+	{
+		"abr": "largeliquidtank",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_LiquidTank"
+	},
+	{
+		"abr": "largesteeltank",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_SteelTank"
+	},
+	{
+		"abr": "coalburner",
+		"price": 65,
+		"category": "",
+		"defname": "VFEPD_CoalBurner"
+	},
+	{
+		"abr": "powerpole",
+		"price": 11,
+		"category": "",
+		"defname": "VFEPD_PowerPole"
+	},
+	{
+		"abr": "dataconsole",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DataConsole"
+	},
+	{
+		"abr": "dataconveyor",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DataConveyor"
+	},
+	{
+		"abr": "displayscreen",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_DisplayScreen"
+	},
+	{
+		"abr": "displaytable",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_DisplayTable"
+	},
+	{
+		"abr": "longcommandconsole",
+		"price": 48,
+		"category": "",
+		"defname": "VFEPD_LongCommandConsole"
+	},
+	{
+		"abr": "planningscreen",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_PlanningScreen"
+	},
+	{
+		"abr": "planningtable",
+		"price": 96,
+		"category": "",
+		"defname": "VFEPD_PlanningTable"
+	},
+	{
+		"abr": "tripledisplaydashboard",
+		"price": 32,
+		"category": "",
+		"defname": "VFEPD_TripleDisplay"
+	},
+	{
+		"abr": "spacercontainer",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SpacerContainer"
+	},
+	{
+		"abr": "spacercontainerlarge",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SpacerContainerLarge"
+	},
+	{
+		"abr": "spacercontainerstack",
+		"price": 80,
+		"category": "",
+		"defname": "VFEPD_SpacerContainerStack"
+	},
+	{
+		"abr": "advancedstoragedevice",
+		"price": 48,
+		"category": "",
+		"defname": "VFEPD_SpacerStorage"
+	},
+	{
+		"abr": "switchpanel",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SwitchPanel"
+	},
+	{
+		"abr": "serverrack",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_ServerRack"
+	},
+	{
+		"abr": "sensorplatform",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_SensorPlatform"
+	},
+	{
+		"abr": "personalconsole",
+		"price": 16,
+		"category": "",
+		"defname": "VFEPD_PersonalConsole"
+	},
+	{
+		"abr": "superpod",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_Superpod"
+	},
+	{
+		"abr": "blackskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipBlack"
+	},
+	{
+		"abr": "blackgunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossBlack"
+	},
+	{
+		"abr": "whiteskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipWhite"
+	},
+	{
+		"abr": "whitegunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossWhite"
+	},
+	{
+		"abr": "silverskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipSilver"
+	},
+	{
+		"abr": "silvergunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossSilver"
+	},
+	{
+		"abr": "blueskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipBlue"
+	},
+	{
+		"abr": "bluegunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossBlue"
+	},
+	{
+		"abr": "redskip",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_SkipRed"
+	},
+	{
+		"abr": "redgunship",
+		"price": 483,
+		"category": "",
+		"defname": "VFEPD_AlbatrossRed"
+	},
+	{
+		"abr": "forklift",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarForklift"
+	},
+	{
+		"abr": "blackdeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryBlack"
+	},
+	{
+		"abr": "blackfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyBlack"
+	},
+	{
+		"abr": "blackpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupBlack"
+	},
+	{
+		"abr": "blackvintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageBlack"
+	},
+	{
+		"abr": "whitedeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryWhite"
+	},
+	{
+		"abr": "whitefamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyWhite"
+	},
+	{
+		"abr": "whitepickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupWhite"
+	},
+	{
+		"abr": "whitevintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageWhite"
+	},
+	{
+		"abr": "silverdeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliverySilver"
+	},
+	{
+		"abr": "silverfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilySilver"
+	},
+	{
+		"abr": "silverpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupSilver"
+	},
+	{
+		"abr": "silvervintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageSilver"
+	},
+	{
+		"abr": "bluedeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryBlue"
+	},
+	{
+		"abr": "bluefamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyBlue"
+	},
+	{
+		"abr": "bluepickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupBlue"
+	},
+	{
+		"abr": "bluevintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageBlue"
+	},
+	{
+		"abr": "reddeliverytruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarDeliveryRed"
+	},
+	{
+		"abr": "redfamilycar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarFamilyRed"
+	},
+	{
+		"abr": "redpickuptruck",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarPickupRed"
+	},
+	{
+		"abr": "redvintagecar",
+		"price": 400,
+		"category": "",
+		"defname": "VFEPD_CarVintageRed"
+	},
+	{
+		"abr": "burro",
+		"price": 5,
+		"category": "",
+		"defname": "Burro"
+	},
+	{
+		"abr": "simpletrap",
+		"price": 12,
+		"category": "",
+		"defname": "Simpletrap"
+	},
+	{
+		"abr": "quarry",
+		"price": 617,
+		"category": "",
+		"defname": "QRY_Quarry"
+	},
+	{
+		"abr": "miniquarry",
+		"price": 260,
+		"category": "",
+		"defname": "QRY_MiniQuarry"
+	},
+	{
+		"abr": "quarryplatform",
+		"price": 168,
+		"category": "",
+		"defname": "QRY_Platform"
+	},
 	],
-	"total": 1456
+	"total": 1902
 }
