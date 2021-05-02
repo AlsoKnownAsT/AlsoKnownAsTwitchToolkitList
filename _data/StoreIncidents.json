@@ -247,7 +247,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 50,
 		"karmatype": "Neutral"
 	},
 	{
@@ -311,13 +311,18 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "fullheal",
 		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,9 +347,9 @@
 	},
 	{
 		"abr": "wantedquest",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 70
 }
